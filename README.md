@@ -1,5 +1,5 @@
 # AUTOCLECKER
-### It is a program that performs automatic compression, the program is easy to use and written in the Python language, it does not need to be complicated. All you have to do when running the program is to press on F2 to run the automatic click, and if you want to stop the tool while it is working, press on F2 again and if you want to exit the program Finally, all you have to do is press on F3
+ It is a program that performs automatic compression, the program is easy to use and written in the Python language, it does not need to be complicated. All you have to do when running the program is to press on F2 to run the automatic click, and if you want to stop the tool while it is working, press on F2 again and if you want to exit the program Finally, all you have to do is press on F3
 #
 ## Installation
 ### Windows
