@@ -4,8 +4,6 @@
 ## Installation
 ### Windows
 - curl -sSf "https://codeload.github.com/WHITE71wolf/AUTOCLECKER/zip/refs/heads/main" > AUTOCLECKER-main.zip
-### Linux
-- git clone https://github.com/WHITE71wolf/AUTOCLECKER.git
 
 #
 ## Requirements
