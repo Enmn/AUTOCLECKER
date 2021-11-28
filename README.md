@@ -12,7 +12,7 @@
 - ### Package yacalk
 #
 ## Errors
-### It is possible that you will encounter an error installing the packages, but do not worry, the tool will automatically install the packages, but you must first install Python
+It is possible that you will encounter an error installing the packages, but do not worry, the tool will automatically install the packages, but you must first install Python
 #
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
