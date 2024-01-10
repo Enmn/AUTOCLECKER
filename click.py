@@ -3,7 +3,6 @@ import os
 import sys
 import threading
 import ctypes
-
 try:
     from yachalk import chalk
     from pynput.mouse import Button, Controller
@@ -11,11 +10,6 @@ try:
 except ImportError:
     os.system("pip install yachalk")
     os.system("pip install pynput")
-
-
-
-
-
 
 delay = 0.001
 button = Button.left
@@ -55,11 +49,9 @@ class ClickMouse(threading.Thread):
                 time.sleep(self.delay)
             time.sleep(0.1)
 
-
 mouse = Controller()
 click_thread = ClickMouse(delay, button)
 click_thread.start()
-
 
 def on_press(key):
     if key == start_stop_key:
