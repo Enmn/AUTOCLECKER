@@ -12,11 +12,3 @@ curl -sSf "https://codeload.github.com/WHITE71wolf/AUTOCLECKER/zip/refs/heads/ma
 - ### Package yacalk
 ## Errors
 It is possible that you will encounter an error installing the packages, but do not worry, the tool will automatically install the packages, but you must first install Python
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<img src="https://www14.0zz0.com/2021/11/17/21/849366769.png">
